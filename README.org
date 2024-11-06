@@ -15,3 +15,7 @@ Enabling =usa-election-2024-mode= will display the real-time USA election result
 
 - [[https://github.com/mattn/vim-usa-election-2024][GitHub - mattn/vim-usa-election-2024]]
 - [[https://chatgpt.com/][chatgpt-4o]]
+
+* Datasource
+
+- https://elections2024.ddhq.io/general/national/
